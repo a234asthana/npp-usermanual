@@ -1,4 +1,4 @@
-# Technical Writing Portfolio
+# Technical Writer Portfolio
 
 ## About Me
 
