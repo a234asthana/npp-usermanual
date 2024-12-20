@@ -1,17 +1,5 @@
-baseURL = "https://a234asthana.github.io/Portfolio/"
-languageCode = "en-us"
-title = "Anupriya Asthana, Technical Writer Portfolio"
-
-theme = "hugo-book-9"
-
-[params]
-  # (Optional, default light) Sets color theme: light, dark or auto.
-  # Theme 'auto' switches between dark and light modes based on browser/os preferences
-  BookTheme = 'auto'
-
-[markup.goldmark.renderer]
-unsafe= true
-
-[markup.tableOfContents]
-startLevel = 1
-endLevel = 6
+title: Midnight theme
+description: Midnight is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-midnight
