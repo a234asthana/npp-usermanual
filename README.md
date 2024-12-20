@@ -1,5 +1,10 @@
 # Technical Writer Portfolio
-## About Me
+> - [About me](https://a234asthana.github.io/Portfolio/#:~:text=Technical%20Writer%20Portfolio-,About%20Me,-My%20name%20is)
+> - [What I'm Practicing](https://a234asthana.github.io/Portfolio/#:~:text=and%20end%2Dusers.-,What%20I%E2%80%99m%20Practicing,-As%20a%20committed)
+> - [Samples](https://a234asthana.github.io/Portfolio/#:~:text=and%20user%20comprehension.-,Samples,-API)
+> - [How to Reach me](https://a234asthana.github.io/Portfolio/#:~:text=SOP-,How%20to%20reach%20me,-Open%20to%20new)
+
+## About me
 
 - My name is Anupriya Asthana and I have over seven years of experience in technical writing. I hold a Master's degree in Communication Engineering. As a technical writer experienced in software documentation, I enjoy simplifying complex technical concepts into user-friendly documentation that bridges the gap between developers, stakeholders, and end-users.
 
@@ -53,7 +58,7 @@ By focusing on these areas, I aim to produce high-quality technical documentatio
 - [Help Guide](https://a234asthana.github.io/Portfolio/Help%20Guide/Manual_Help%20Guide%20Documentation%20Process%20using%20markdown.html)
 - [SOP](https://a234asthana.github.io/Portfolio/SOP/Database%20Backup%20SOP.pdf)
 
-## How to reach me
+## How to Reach me
 Open to new opportunities and networking! Contact me for writing requirements:
 - GitHub: [@a234asthana](https://github.com/a234asthana)
 - LinkedIn: [https://www.linkedin.com/in/a234asthana/](https://www.linkedin.com/in/a234asthana/)
