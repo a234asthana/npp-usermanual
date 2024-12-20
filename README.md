@@ -1,3 +1,4 @@
+# Technical Writer Portfolio
 ## About Me
 
 - My name is Anupriya Asthana and I have over seven years of experience in technical writing. I hold a Master's degree in Communication Engineering. As a technical writer experienced in software documentation, I enjoy simplifying complex technical concepts into user-friendly documentation that bridges the gap between developers, stakeholders, and end-users.
