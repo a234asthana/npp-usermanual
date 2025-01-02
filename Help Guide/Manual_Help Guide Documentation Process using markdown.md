@@ -10,10 +10,10 @@
 ### Cloning a repository 
 When you create a repository on GitHub.com, it exists as a remote repository. You can clone your repository to create a local copy on your computer and sync between the two locations.
 ### Markdown 
-Markdown is a lightweight markup language for creating formatted text using a plain-text editor. To learn the basics of Markdown, refer to [guide](https://github.github.com/gfm/0).
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor. To learn the basics of Markdown, refer to [guide](https://www.markdownguide.org/).
 
 ### VS Code
-VS Code supports Markdown files out of the box. You just start writing Markdown text, save the file with the .md extension, and then you can toggle the visualization of the editor between the code and the preview of the Markdown file; obviously, you can also open an existing Markdown file and start working with it. To switch between views, press Ctrl+Shift+V in the editor. You can view the preview side-by-side (Ctrl+K V) with the file you are editing and see changes reflected in real time as you edit.
+VS Code supports Markdown files out of the box. You just start writing Markdown text, save the file with the .md extension, and then you can toggle the visualization of the editor between the code and the preview of the Markdown file; obviously, you can also open an existing Markdown file and start working with it. To switch between views, press Ctrl+Shift+V in the editor. You can view the preview side-by-side (Ctrl+K V) with the file you are editing and see changes reflected in real-time as you edit.
 
 ## Procedure
 The process of product help page creation and publishing on the website is divided into the following stages:
