@@ -64,8 +64,8 @@ Any discrepancies between the Print Preview and the PDF Lesson Plan content shou
 / such as response time, compatibility, etc./
 
 ## Use Cases
-|Actor|Precondition|Main flow|Postconditions|
+| Actor| Precondition| Main flow| Postconditions|
 | :-------- | :------- | :-------| :-------|
-|User|has opened the print preview of PDF file|makes Page selection|is able to preview selected pages|
-|xx|xx|xx|xx|
+| User| has opened the print preview of PDF file| makes Page selection| is able to preview selected pages|
+| xx| xx| xx| xx|
 
