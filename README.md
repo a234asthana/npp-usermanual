@@ -16,8 +16,8 @@ As a committed Technical Writer, I am constantly refining a variety of skills to
 - **API Documentation:** Writing clear and comprehensive API documentation to help developers understand and use APIs effectively.
 - **Product Documentation:** Creating detailed product manuals and guides to assist users in understanding and utilizing products.
 - **Help Guides:** Developing user-friendly help guides and FAQs to provide quick solutions to common issues.
-- **Release Notes:** Compiling release notes to inform users about new features, improvements, and bug fixes.
-- **Feature Requests:** Documenting feature requests and feedback to help guide product development.
+- **Release Notes:** Compiling release notes to inform users about new features, improvements, and bug fixes in every release.
+- **Feature Requests:** Documenting feature requests and feedback to assist product development.
 - **Blogs and Articles:** Writing informative and engaging blog posts and articles to share knowledge and insights with a broader audience.
 
 ### Writing Excellence
