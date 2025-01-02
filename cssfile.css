@@ -1,3 +1,9 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+
 .md-content__inner.md-typeset:before {
   content: "SAMPLE";
   -webkit-transform: rotate(331deg);
