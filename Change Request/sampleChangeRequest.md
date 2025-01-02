@@ -66,5 +66,6 @@ Any discrepancies between the Print Preview and the PDF Lesson Plan content shou
 ## Use Cases
 | Actor| Precondition| Main flow| Postconditions|
 | :-------- | :------- | :-------| :-------|
-| User| has opened the print preview of PDF file| makes Page selection| is able to preview selected pages|
+
+
 
