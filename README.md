@@ -2,6 +2,7 @@
 > - [About me](https://a234asthana.github.io/Portfolio/#:~:text=Technical%20Writer%20Portfolio-,About%20Me,-My%20name%20is)
 > - [What I'm Practicing](https://a234asthana.github.io/Portfolio/#:~:text=and%20end%2Dusers.-,What%20I%E2%80%99m%20Practicing,-As%20a%20committed)
 > - [Samples](https://a234asthana.github.io/Portfolio/#:~:text=and%20user%20comprehension.-,Samples,-API)
+> - [Services](https://a234asthana.github.io/Portfolio/#:~:text=SOP-,Services,-Taking%20on%20New)
 > - [How to Reach me](https://a234asthana.github.io/Portfolio/#:~:text=SOP-,How%20to%20reach%20me,-Open%20to%20new)
 
 ## About me
