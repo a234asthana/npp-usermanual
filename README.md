@@ -58,7 +58,13 @@ By focusing on these areas, I aim to produce high-quality technical documentatio
 - [Help Guide](https://a234asthana.github.io/Portfolio/Help%20Guide/Manual_Help%20Guide%20Documentation%20Process%20using%20markdown.html)
 - [SOP](https://a234asthana.github.io/Portfolio/SOP/Database%20Backup%20SOP.pdf)
 
-## How to Reach me
+## Services
+Taking on New Clients!
+
+I specialize in helping companies with their documentation and communications strategy and implementation. I can assist you if you need clear, concise documentation or a comprehensive communications plan. 
+Contact me to learn about my reasonable rates and engage my services.
+
+## How to Contact me
 Open to new opportunities and networking! Contact me for writing requirements:
 - GitHub: [@a234asthana](https://github.com/a234asthana)
 - LinkedIn: [https://www.linkedin.com/in/a234asthana/](https://www.linkedin.com/in/a234asthana/)
