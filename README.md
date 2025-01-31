@@ -55,7 +55,7 @@ By focusing on these areas, I aim to produce high-quality technical documentatio
 - [API](https://a234asthana.github.io/Portfolio/API/SWAPI_APIDocumentation.pdf)
 - [Blogs](https://a234asthana.github.io/Portfolio/Blogs/Links.html)
 - [Case Studies](https://a234asthana.github.io/Portfolio/Case%20Studies/forguncycasestudy.html)
-- [Change Request](https://a234asthana.github.io/Portfolio/Change%20Request/sampleChangeRequest.html)
+- [Change Request/FRD](https://a234asthana.github.io/Portfolio/Change%20Request/sampleChangeRequest.html)
 - [Help Guide](https://a234asthana.github.io/Portfolio/Help%20Guide/Manual_Help%20Guide%20Documentation%20Process%20using%20markdown.html)
 - [SOP](https://a234asthana.github.io/Portfolio/SOP/Database%20Backup%20SOP.pdf)
 
