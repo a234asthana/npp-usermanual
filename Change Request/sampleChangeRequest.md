@@ -1,4 +1,4 @@
-# Sample Change Request Documentation|FRD
+# Sample Change Request Documentation|BRD
 
 *Note: A few of the details are kept hidden to maintain confidentiality*
 
